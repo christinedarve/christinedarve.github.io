@@ -7,4 +7,4 @@ https://silmaril-edu.github.io/website/index.html#about
 [Christine Darve Website/Bookmark page](https://cdarve.web.cern.ch/)
 
 
-[Accelerateurs en Asiia et en Afrique](https://christinedarve.github.io/test/)
+[Accelerateurs en Asia et en Afrique](https://christinedarve.github.io/test/)
